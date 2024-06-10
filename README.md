@@ -1,4 +1,4 @@
-# Cleaner Transcription Example
+# Realtime Denoising Example
 
 Example code from (https://www.ncompass.tech/realtime_denoising/quick_start). 
 
